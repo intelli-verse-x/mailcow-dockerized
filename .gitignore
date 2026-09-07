@@ -4,7 +4,6 @@
 !/**/.gitkeep
 *.iml
 .idea
-.vscode/*
 data/assets/ssl-example/*
 data/assets/ssl/*
 data/conf/borgmatic/
@@ -77,3 +76,5 @@ update_diffs/
 create_cold_standby.sh
 !data/conf/nginx/mailcow_auth.conf
 data/conf/postfix/postfix-tlspol
+config.bat
+node_modules
